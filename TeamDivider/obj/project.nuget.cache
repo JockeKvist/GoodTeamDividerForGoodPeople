@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVE2SbZM7FcDXUdb+5Si7qPe8j9RfJ+t20KTrhMpDeQmKB/O6Gdxgt+OnjpbuSYbYxvcQlXn2Kanv5odgevwkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaki\\Desktop\\Goodteamdividerforgoodpeople\\TeamDivider\\TeamDivider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaki\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.0\\microsoft.aspnetcore.spaservices.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\joaki\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\joaki\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\joaki\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\joaki\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
